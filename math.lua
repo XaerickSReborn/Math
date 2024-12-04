@@ -15,4 +15,5 @@ local function parametro(numero1, numero2)
 end
 
 local resultado,resultado2 = parametro(10,2)
-print(resultado,resultado2)
+print(resultado)
+print(resultado2)
